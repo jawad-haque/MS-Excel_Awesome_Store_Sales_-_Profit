@@ -7,7 +7,7 @@ Hello all,
 I am glad to share my Latest Excel Project – “Sales & Profit Dashboard”.
 This project is primarily focused on gaining a comprehensive understanding of the business performance effectively, whether you're a beginner or an expert. This dashboard will provide valuable insights. Through meticulous data analysis and visualization, the project aims to uncover key insights and trends.
 
-➤Project Title: “awesome store sales & profit report”
+➤Project Title: “AWESOME STORE SALES & PROFIT REPORT”
 
 ➤OBJECTIVES:
 This project is aimed at providing a visualized, interactive analysis of the sales & profit to the following objectives:
